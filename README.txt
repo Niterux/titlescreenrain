@@ -1,0 +1,1 @@
+to install simply add #base "titlescreenrain.res" in mainmenuoverride.res
